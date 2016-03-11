@@ -1,12 +1,14 @@
 # Permalinks
-permalink:           pretty
+permalink:           /p/:slug
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Jakewins
+tagline:             on data, food and technology.
+description:         A blog about adventures
+url:                 http://jakewins.com
+paginate:            8
 baseurl:             ""
+excerpt_separator:   <!--more-->
 
 # Assets
 #
@@ -17,14 +19,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jacob Hansson
+  url:               https://twitter.com/jakewins
+  email:             jakewins@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jakewins/jakewins.github.io
 
 # Gems
 gems:

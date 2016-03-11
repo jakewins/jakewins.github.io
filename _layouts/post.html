@@ -12,7 +12,7 @@ layout: default
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.related_posts limit:4 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
@@ -22,4 +22,27 @@ layout: default
     {% endfor %}
   </ul>
 </aside>
+{% endif %}
+
+
+{% if page.comments %}
+<aside id="disqus_thread"></aside>
+<script>
+   /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+    */
+   var disqus_config = function () {
+       this.page.url = "http://jakewins.com/{{ site.baseurl }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+       this.page.identifier = "{{ page.slug }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+   };
+   (function() {  // DON'T EDIT BELOW THIS LINE
+       var d = document, s = d.createElement('script');
+
+       s.src = '//jakewins.disqus.com/embed.js';
+
+       s.setAttribute('data-timestamp', +new Date());
+       (d.head || d.body).appendChild(s);
+   })();
+</script>
 {% endif %}
