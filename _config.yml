@@ -9,6 +9,7 @@ url:                 http://jakewins.com
 paginate:            8
 baseurl:             ""
 excerpt_separator:   <!--more-->
+analytics_id:        UA-12012013-1
 
 # Assets
 #
