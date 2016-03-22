@@ -64,6 +64,6 @@ author:
 
 So, lets get going!
 
-- [Things I learned planting seedlings](http://jakewins.com/p/things-i-did-wrong-planting-seedlings/)
-- [On raised bed gardens](http://jakewins.com/p/on-the-raised-bed-gardens-and-holes/)
-- [Building a raised bed garden](http://jakewins.com/p/building-a-raised-bed/)
+- [Things I learned planting seedlings](http://jakewins.com/p/things-i-did-wrong-planting-seedlings)
+- [On raised bed gardens](http://jakewins.com/p/on-the-raised-bed-gardens-and-holes)
+- [Building a raised bed garden](http://jakewins.com/p/building-a-raised-bed)

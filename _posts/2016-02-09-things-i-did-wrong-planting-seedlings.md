@@ -44,4 +44,4 @@ author:
 </strong></p>
 <p>This is similar to the "when to transplant" thing - everyone tells you you need to do it, but the <em>why</em> is frustratingly vague. "Hardening off" your seedlings means putting them outside a little bit at a time, to have them get used to their new climate. I will do this properly this year, because everyone tells me to - but I'm annoyed that I don't know what it is that happens exactly.</p>
 <p>I think wind plays a part - being rocked back and fourth supposedly makes the plants produce stronger stems. Maybe there's also something about UV light or pathogens?</p>
-<p>Growing a meal is hard work - learn about the <a href="http://jakewins.com/p/on-the-raised-bed-gardens-and-holes/">purpose of raised beds</a>, and <a href="http://jakewins.com/p/building-a-raised-bed/">how to build them</a>.</p>
+<p>Growing a meal is hard work - learn about the <a href="http://jakewins.com/p/on-the-raised-bed-gardens-and-holes">purpose of raised beds</a>, and <a href="http://jakewins.com/p/building-a-raised-bed">how to build them</a>.</p>
