@@ -26,9 +26,12 @@ But how do you grow pasta in the back yard?
 
 <!--more-->
 
-The most expensive purchase an American family will make is their house and associated yard and most of our lives will be spent working to pay for this purchase.
+The most expensive purchase an American family will make is a house and associated yard, and most of our lives will be spent working to pay for it.
 Intriguingly, the majority of the cost is for the location of the land, not the construction of the house sitting on it.
 And the majority of the land is not used for the house; it is used to carefully and diligently grow and groom turf grass.
+
+Which is all to say - most of our private wealth is indirectly spent on turf grass. 
+And that makes a surprising amount of sense.
 
 You see, the Greatest Generation had turf grass and a chicken in every pot, and the gridlock generation of Baby Boomers that followed deeply idolize them.
 Baby Boomers incorrectly inferred that the turf grass was the cause of their parents supposed greatness, and promptly usurped turf grass maintenance as a cornerstone of their mating rituals.
@@ -41,7 +44,7 @@ An American male perched on a [Big Dog Blackjack zero-turn riding mower](http://
 Where was I?
 
 Right.
-Point is: most of the private wealth of American families is indirectly going to growing and cutting turf grass, meaning we grow an outrageous amounts of grasses in this country. 
+Point is: we grow an outrageous amounts of grasses in this country. 
 And despite this, there is whoefully little to find online about how to grow grass to *eat*.
 
 ## Types of wheat
