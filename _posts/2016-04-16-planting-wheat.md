@@ -44,7 +44,7 @@ An American male perched on a [Big Dog Blackjack zero-turn riding mower](http://
 Where was I?
 
 Right.
-Point is: we grow an outrageous amounts of grasses in this country. 
+Point is: we grow an outrageous amounts of grass in this country. 
 And despite this, there is whoefully little to find online about how to grow grass to *eat*.
 
 ## Types of wheat
