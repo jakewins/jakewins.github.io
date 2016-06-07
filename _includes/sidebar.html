@@ -8,15 +8,27 @@
     <p>Twitter <a href="http://twitter.com/jakewins">@jakewins</a>
     <br>
     Github <a href="https://github.com/jakewins">jakewins</a>
+    <br>
+    <a href="{{ site.baseurl }}/feed/">RSS Feed</a>
     </p>
   </div>
 
   <div class="sidebar-item">
-    <p><b>Recent posts</b></p>
+    <p><b>Recent</b></p>
     <ul class="related-posts">
       {% for post in site.posts offset: 0 limit: 10  %}
         <li><a href="{{ post.url }}"><small>{{ post.title }}</small></a></li>
       {% endfor %}
+    </ul>
+  </div>
+
+  <div class="sidebar-item">
+    <p><b>Talks</b></p>
+    <ul class="related-posts">
+      <li><a href="https://docs.google.com/presentation/d/1GqIB6YCI9Dn2BP1znN_3yrDAIEbriqF-gvbWSQlIq28/pub?start=false&loop=false&delayms=3000">
+        <small>2015 - Fast Java Programs</small></a></li>
+      <li><a href="https://docs.google.com/presentation/d/1ufZpCXeR0jbUfdQ2xcNZzuZ6RGXZ0_AW8pagvbp3E9Q/pub?start=false&loop=false&delayms=3000">
+        <small>2014 - Intro to Neo4j</small></a></li>
     </ul>
   </div>
 
@@ -39,7 +51,6 @@
   {% endcomment %}
 
   <div class="sidebar-item">
-    <p><a href="{{ site.baseurl }}/feed/">Subscibe via RSS</a></p>
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
