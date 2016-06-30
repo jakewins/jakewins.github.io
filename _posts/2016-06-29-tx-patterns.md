@@ -112,7 +112,7 @@ if( business_logic() ) {
 }
 ```
 
-Unfortunately, this doesn't work, says our test. Four different cases causes a bad outcomes, but they are all variants of the same case:
+Unfortunately, this doesn't work, says our test. Four different cases cause bad outcomes, all variants of the same case:
 
     Pattern failed validation
       Scenario: begin -> SUCCEED
