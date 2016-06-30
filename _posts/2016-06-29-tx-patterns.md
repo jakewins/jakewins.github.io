@@ -45,12 +45,10 @@ Imagine we have a use case like this:
     else:
       rollback transaction
 
-The implementation must commit or roll back exactly once - but never do both - and if domain logic is true, it must commit. The problem is that any of the actions here may fail, and the way we write the code needs to handle those failures without violating our rules.
+The implementation must commit or roll back exactly once - but never do both - and if domain logic is true, it must commit. The problem is that any of the actions may fail, the pattern we choose needs to handle those failures without violating the rules.
 
-To test this, we wrote a tiny test harness that can test some approach, and tell you if it violates any of the rules.
-We do this first by definining all the available actions, and their possible outcomes. For the blocking case, one action is `begin()`, and it has two possible outcomes - either it succeeds or it throws an exception.
-
-We define this via a little DSL like so:
+To test this, we wrote a tiny test harness that can take a pattern, and tell you if it will violate any of the rules.
+We do this first by definining all the available actions, and their possible outcomes. For the blocking case, one action is `begin()`, and it has two possible outcomes - either it succeeds or it throws an exception:
 
 ```javascript
 let begin = action('begin', FAIL, SUCCEED);
@@ -64,9 +62,9 @@ function SUCCEED() {
 }
 ```
 
-Then we define a set of valid outcomes, valid sequences of actions. If the code pattern we're testing does something different, it fails the test. 
+Then we define a set of valid outcomes, or valid sequences of actions. If the code pattern we're testing invokes actions in a sequence we haven't explicitly said is valid, the pattern fails the test.
 
-For the blocking use case, one rule is that if domain logic fails, it must roll back:
+For the blocking use case, one of the rules is that if domain logic fails, it must roll back. We define this by writing it up as a valid sequence of actions:
 
 ```javascript
 let valid_sequences = [
@@ -74,7 +72,7 @@ let valid_sequences = [
 ];
 ```
 
-Then we give the available actions, the list of valid sequences and our test subject to the harness, and it will tell us if any combination of action outcomes causes the code to perform an invalid sequence, like leaking the transaction:
+Then we give the available actions, the list of valid sequences and the pattern to test to the harness, and it will tell us if any combination of action outcomes causes the pattern to perform an invalid sequence.
 
 ```javascript
 test_correctness(actions, valid_sequences, pattern)
@@ -83,8 +81,11 @@ test_correctness(actions, valid_sequences, pattern)
 If a scenario is found where the pattern fails validation, we get a description like this:
 
     Pattern failed validation
-      Scenario: begin -> SUCCEED, commit -> FAIL, rollback -> FAIL, business logic -> FAIL
-      Pattern did: begin, business logic
+      Scenario: begin -> SUCCEED
+                business logic -> FAIL 
+                commit -> FAIL
+                rollback -> FAIL
+      Sequence: begin, business logic
 
 You can find the source code for the tester [here](https://github.com/jakewins/transactional-patterns/blob/master/src/harness.js#L10).
 
