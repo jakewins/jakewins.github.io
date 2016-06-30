@@ -7,7 +7,7 @@ published: true
 status: publish
 comments: true
 categories:
-- Uncategorised
+- Technology
 tags: []
 meta:
   _edit_last: '1'
