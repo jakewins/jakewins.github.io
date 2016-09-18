@@ -73,7 +73,7 @@ feeling, since it was all happening on my Github page, right under my nose!
 After digging some, it turns out that [Greg Reinbach](https://github.com/reinbach), the guy who opened the PR, had eventually
 done basically the same thing I did, and given a third person commit rights, [Benjamin Bach](https://github.com/benjaoming).
 
-Benjamin had since then, for several years at this point, quitely been maintaining the project, reviewing PRs that people sent,
+Benjamin had since then, for several years at this point, quietly been maintaining the project, reviewing PRs that people sent,
 making sure CI hummed along and so on. And as he had, the project had slowly but surely gained more and more adoption, to the 
 point where it was now being considered to be used for a project at the crowdfunding platform where my friend worked.
 
