@@ -40,7 +40,7 @@ From this perspective, it does not matter that outside protesters came to campus
 
 It is all moot next to the old man on the ground with his red Trump hat, the burning American flag, and the words “Free Speech” engulfed in the flames.
 
-There’s a reason professional video cut to benefit the Trump narrative of a Antifa “terrorists” was online less than an hour after the clashes; Trump organizers are working day and night to shape public opinion. It’s working. His base here in Missouri is eating the propaganda up. Hundreds of thousands have shared the meme-style photos and the slick videos.
+There’s a reason professional video cut to benefit the Trump narrative of Antifa “terrorists” was online less than an hour after the clashes; Trump organizers are working day and night to shape public opinion. It’s working. His base here in Missouri is eating the propaganda up. Hundreds of thousands have shared the meme-style photos and the slick videos.
 
 As representatives here in Missouri write legislation to allow confiscating our houses and cars for protesting, the propaganda from California is making their case for them.
 
@@ -48,6 +48,6 @@ Independent of morality or truth, there will be fewer attendees at our next rall
 
 Lenin famously noted the Bolsheviks stood for getting power through the ballot, but would reconsider after they got the guns. There may well come a time for violence. If it does we need you with us, not rotting in jail on a riot charge.
 
-It hurts from the bottom of my stomach to ask you this, but I feel I have to. Use the strength you have and take the punch. Let them pepper spray you. Let them spew hatred in your face - and stand firm. Document it happening and show the world their hatred.
+It hurts from the bottom of my stomach to ask you this, but I feel I have to. Take the punch. Let them pepper spray you. Let them spew hatred in your face - and stand firm. Document it happening and show the world who they are.
 
 Don’t repeat the mistake of RF. Use the strength we have today to our advantage. Make the next viral article out of Berkeley be “Violent Trump Supporters Attack Peaceful Student Counter-Protest.”
