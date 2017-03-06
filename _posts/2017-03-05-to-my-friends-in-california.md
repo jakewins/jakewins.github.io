@@ -20,13 +20,15 @@ author:
   last_name: ''
 ---
 
+Letter to the editor of The Daily Californian, about [the protests this weekend](https://www.washingtonpost.com/news/post-nation/wp/2017/03/05/pro-trump-rally-in-berkeley-turns-violent-as-protesters-clash-with-the-presidents-supporters/).
+
 To my friends in California,
 
 “First they came for the Muslims, and we said not this time mother fucker”. The quote set a tone for the national opposition. But the Niemöller original does not start out with ethnic groups. The original starts with “First they came for the Socialists,” and there is a reason Martin begins his list with the political opposition.
 
 <!--more-->
 
-The [German Communist Party, KPD](https://en.wikipedia.org/wiki/Communist_Party_of_Germany), was the first political party outlawed. They had organized mass opposition to Hitler and destroying them was easy to do once the German military was at his command.
+The [German Communist Party](https://en.wikipedia.org/wiki/Communist_Party_of_Germany), KPD, was the first political party outlawed. They had organized mass opposition to Hitler and destroying them was easy to do once the German military was at his command.
 
 Popular support for the party had been undermined by its paramilitary arm [Red Front (RF)](https://en.wikipedia.org/wiki/Roter_Frontk%C3%A4mpferbund), a precursor to today’s Antifa. RF organized violent disruptions of Nazi gatherings and fought back when SA paramilitaries attacked peaceful KPD rallies.
 
