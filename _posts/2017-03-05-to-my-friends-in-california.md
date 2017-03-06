@@ -40,6 +40,8 @@ From this perspective, it does not matter that outside protesters came to campus
 
 It is all moot next to the old man on the ground with his red Trump hat, the burning American flag, and the words “Free Speech” engulfed in the flames.
 
+![Propaganda]({{ site.baseurl }}/public/assets/2017-03/propaganda.png)
+
 There’s a reason professional video cut to benefit the Trump narrative of Antifa “terrorists” was online less than an hour after the clashes; Trump organizers are working day and night to shape public opinion. It’s working. His base here in Missouri is eating the propaganda up. Hundreds of thousands have shared the meme-style photos and the slick videos.
 
 As representatives here in Missouri write legislation to allow confiscating our houses and cars for protesting, the propaganda from California is making their case for them.
