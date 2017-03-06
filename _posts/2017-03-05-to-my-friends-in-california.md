@@ -36,7 +36,7 @@ RF were brave German men and women, willing to lay their lives down to stop Nazi
 
 Donald Trump controls the most powerful military the world has seen, and the pictures that came out of Berkeley this weekend bolsters his ability to use it.
 
-From this perspective, it does not matter that outside protesters came to campus wearing shields and gas masks. It does not matter that they pepper sprayed students and beat people with planks. It does not matter that the old man who went viral was punching freshmen. It does not matter that he got pepper spray on him by accident.
+From this perspective, it does not matter that outside protesters came to campus [wearing shields]({{ site.baseurl }}/public/assets/2017-03/shields.png) and [gas masks](https://twitter.com/DukeNukemSez/status/838580173154959360). It does not matter that they [pepper sprayed students]({{ site.baseurl }}/public/assets/2017-03/pepper-spray.jpg) and [beat people with planks](https://twitter.com/MAGA_shopper/status/838248736182702084). It does not matter that the old man who went viral was [instigating fights](https://twitter.com/BaronBavis/status/838133766111428608). It does not matter that he [got pepper spray on him by accident](https://twitter.com/RealJack/status/838221290351783936).
 
 It is all moot next to the old man on the ground with his red Trump hat, the burning American flag, and the words “Free Speech” engulfed in the flames.
 
