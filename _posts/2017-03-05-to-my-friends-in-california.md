@@ -40,7 +40,8 @@ From this perspective, it does not matter that outside protesters came to campus
 
 It is all moot next to the old man on the ground with his red Trump hat, the burning American flag, and the words “Free Speech” engulfed in the flames.
 
-![Propaganda]({{ site.baseurl }}/public/assets/2017-03/propaganda.png)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Democrat Party&#39;s become the party of putrid hate, racism, total corruption &amp; misery. <a href="https://twitter.com/hashtag/Berkeley?src=hash">#Berkeley</a> <a href="https://twitter.com/hashtag/March4Trump?src=hash">#March4Trump</a><br><br>I am so DONE! <a href="https://twitter.com/hashtag/DemEXIT?src=hash">#DemEXIT</a>!!! 🔥 <a href="https://t.co/NVpyIp31w2">pic.twitter.com/NVpyIp31w2</a></p>&mdash; Democrats for Trump (@YoungDems4Trump) <a href="https://twitter.com/YoungDems4Trump/status/838673296833011712">March 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 There’s a reason professional video cut to benefit the Trump narrative of [Antifa “terrorists”](http://ijr.com/2017/03/817178-berkeley-riot-explodes-trump-supporters-beaten-to-ground-as-rally-turns-into-bloody-nightmare/) was online less than an hour after the clashes; Trump organizers are working day and night to shape public opinion. It’s working. His base here in Missouri is eating the propaganda up. Hundreds of thousands have shared the meme-style photos and the slick videos.
 
