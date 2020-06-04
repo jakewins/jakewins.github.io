@@ -18,6 +18,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/the-end-of-the-market/'
 ---
 <p><em>Markets are an incredible way to organize and share the spoils of labor, but in many aspects they are based on assumptions that no longer hold true. A dive into how the open source economy radically changes how we trade.</em></p>
 <p><!--more--></p>
