@@ -18,6 +18,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/clickbait/'
 ---
 
 (Spoiler: trusting your contributors works)

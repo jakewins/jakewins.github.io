@@ -18,6 +18,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/price-wars.html'
 ---
 
 A friend of mine, I won't share his name for privacy reasons<sup>1</sup>, told me he had an interesting realization one day.

@@ -17,6 +17,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/professionalism/'
 ---
 <p>We like to blame the worlds governments, or the ominous <em>Them,</em> for the current mass surveillance society we live in. It's an easy way out - but pull the curtain aside and you and I both know there is a programmer sitting behind it.</p>
 <p>We, the profession of software engineering, built the Orwellian future we now inhabit, and it is high time for a retrospective.</p>

@@ -18,6 +18,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/brian-flanagan-goes-to-ireland/'
 ---
 <p>On march third, a young man named Brian Flanagan was refused entry into Ireland. The border police officer he happened to have been paired up with believed the occupation Brian cited as his reason for entry, “user experience designer”, was made up.</p>
 <p><!--more--></p>

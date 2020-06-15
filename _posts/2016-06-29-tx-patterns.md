@@ -18,6 +18,7 @@ author:
   display_name: jake
   first_name: ''
   last_name: ''
+redirect_to: 'https://tech.davis-hansson.com/p/tx-patterns/'
 ---
 
 Transactions are not very hip anymore - so unhip, in fact, that people started building databases without them.
